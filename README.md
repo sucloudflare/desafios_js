@@ -1,7 +1,7 @@
 # desafios_js
 
-Readme para a Função aVeryBigSum
-Visão Geral
+<h1>Função aVeryBigSum
+Visão Geral</h1>
 
 Uma função em JavaScript, aVeryBigSum, foi criada para calcular a soma de um array de números inteiros grandes. Essa função foi projetada para lidar com casos em que inteiros regulares podem não ser suficientes devido ao seu tamanho.
 Uso
@@ -56,8 +56,8 @@ Observação Importante
 
 O uso de BigInt é crucial para evitar possíveis problemas de estouro ao lidar com números grandes. Se o resultado precisar ser usado como um número regular, a função Number() pode ser aplicada ao resultado do BigInt.
 
-Funções de Manipulação de Arrays
-Soma Simples de Array
+<h1>Funções de Manipulação de Arrays
+Soma Simples de Array</h1>
 
 javascript
 
