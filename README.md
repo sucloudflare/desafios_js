@@ -42,7 +42,7 @@ javascript
 
     return Number(sum);
 
-    Exemplo de Uso
+Exemplo de Uso
 
     javascript
 
