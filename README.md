@@ -9,12 +9,12 @@ Assinatura da Função
 
 javascript
 
-/**
- * Calcula a soma de um array de números inteiros grandes.
- *
- * @param {Array<Number>} ar - O array de inteiros a ser somado.
- * @returns {Number} - A soma dos elementos do array como um número regular.
- */
+```
+Calcula a soma de um array de números inteiros grandes.
+ 
+@param {Array<Number>} ar - O array de inteiros a ser somado.
+@returns {Number} - A soma dos elementos do array como um número regular.
+
 function aVeryBigSum(ar) {
     // Implementação do código conforme descrito no Readme.
 }
@@ -33,23 +33,23 @@ A função usa um BigInt para lidar com possíveis problemas de estouro ao lidar
 
 javascript
 
-/**
-* let sum = BigInt(0);
 
-* for (let i = 0; i < ar.length; i++) {
+    let sum = BigInt(0);
+
+    for (let i = 0; i < ar.length; i++) {
     sum += BigInt(ar[i]);
-}
+    }
 
-* return Number(sum);
+    return Number(sum);
 
-Exemplo de Uso
+    Exemplo de Uso
 
-* javascript
+    javascript
 
-* const arrayDeNumeros = [1000000001, 1000000002, 1000000003, 1000000004, 1000000005];
-* const resultado = aVeryBigSum(arrayDeNumeros);
-* console.log(resultado); // Saída: 5000000015
-*/
+    const arrayDeNumeros = [1000000001, 1000000002, 1000000003, 1000000004, 1000000005];
+    const resultado = aVeryBigSum(arrayDeNumeros);
+    console.log(resultado); // Saída: 5000000015
+
 
 Observação Importante
 
