@@ -55,3 +55,47 @@ Exemplo:
 Observação Importante
 
 O uso de BigInt é crucial para evitar possíveis problemas de estouro ao lidar com números grandes. Se o resultado precisar ser usado como um número regular, a função Number() pode ser aplicada ao resultado do BigInt.
+
+Funções de Manipulação de Arrays
+Soma Simples de Array
+
+javascript
+
+function simpleArraySum(ar) {
+    // Utilizando a função reduce para somar os elementos do array
+    return ar.reduce((soma, numero) => soma + numero, 0);
+}
+
+    Esta função recebe um array de números como parâmetro (ar).
+    Utiliza a função reduce para somar os elementos do array.
+    A expressão (soma, numero) => soma + numero é uma função de callback que adiciona cada elemento ao acumulador (soma).
+    O segundo argumento do reduce é o valor inicial do acumulador, neste caso, 0.
+    A função retorna a soma total dos elementos do array.
+
+Array de Inteiros
+
+javascript
+```
+    function integerArray(ar) {
+       console.log(ar);
+    }
+```
+
+    Esta função recebe um array como parâmetro (ar).
+    Simplesmente imprime o array no console usando console.log.
+
+
+Exemplo de Uso:
+
+javascript
+
+```
+   const meuArray = [1, 2, 3, 4, 5];
+   const resultado = simpleArraySum(meuArray);
+   console.log(resultado); // Saída: 15
+
+   integerArray(meuArray); // Saída: [1, 2, 3, 4, 5]
+```
+
+
+Estas funções podem ser utilizadas para realizar operações simples em arrays, como a soma de seus elementos ou a impressão do array no console. Adaptando-as conforme necessário, você pode incorporar essas funcionalidades em seu código.
