@@ -13,17 +13,17 @@
             problemas.</li>
 </ul>
     <h2>Funções de Manipulação de Arrays</h2>
-    <ul>
-     <li><strong>Eficiência na Manipulação de Dados:</strong> As funções <code>simpleArraySum</code> e
-            <code>integerArray</code> destacam métodos eficientes para manipular e processar arrays, essenciais para
+<ul>
+ <li><strong>Eficiência na Manipulação de Dados:</strong> As funções <code>simpleArraySum</code> e
+  <code>integerArray</code> destacam métodos eficientes para manipular e processar arrays, essenciais para
             otimizar a eficiência do código.</li>
 
-    <li><strong>Entendimento de Métodos de Array:</strong> Ao utilizar métodos como <code>reduce</code>, você
+<li><strong>Entendimento de Métodos de Array:</strong> Ao utilizar métodos como <code>reduce</code>, você
             aprimora seu entendimento de operações de array, contribuindo para um código mais conciso e legível.</li>
-            <li><strong>Habilidades Essenciais:</strong> Dominar esses desafios não apenas melhora suas habilidades em
+<li><strong>Habilidades Essenciais:</strong> Dominar esses desafios não apenas melhora suas habilidades em
             JavaScript, mas também solidifica conceitos fundamentais para a programação eficaz.</li>
 
-        <li><strong>Preparação para Desafios Mais Complexos:</strong> A resolução desses desafios serve como uma base
+ <li><strong>Preparação para Desafios Mais Complexos:</strong> A resolução desses desafios serve como uma base
             sólida, preparando você para enfrentar problemas mais complexos e desafiadores em seu percurso como
             desenvolvedor.</li>
 </ul>
