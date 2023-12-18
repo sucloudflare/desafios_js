@@ -1,44 +1,35 @@
 # desafios_js
 
 <h1>Importância de Resolver Desafios em JavaScript</h1>
-
-    <h2>Desafio <code>aVeryBigSum</code></h2>
-
-    <ul>
-        <li><strong>Desenvolvimento de Lógica:</strong> Ao enfrentar este desafio, você aprimora sua habilidade de desenvolver
+ <h2>Desafio <code>aVeryBigSum</code></h2>
+<ul>
+    <li><strong>Desenvolvimento de Lógica:</strong> Ao enfrentar este desafio, você aprimora sua habilidade de desenvolver
             lógica de programação eficiente. O uso de <code>BigInt</code> demonstra como lidar com números grandes de
-            maneira segura.</li>
-
-        <li><strong>Manuseio de Tipos de Dados:</strong> A manipulação de <code>BigInt</code> e sua conversão para tipos
+            maneira segura.
+    </li>    <li><strong>Manuseio de Tipos de Dados:</strong> A manipulação de <code>BigInt</code> e sua conversão para tipos
             regulares destaca a importância do entendimento profundo dos tipos de dados em JavaScript.</li>
-
-        <li><strong>Resolução de Problemas:</strong> Resolver este desafio envolve a aplicação de estratégias para
+    <li><strong>Resolução de Problemas:</strong> Resolver este desafio envolve a aplicação de estratégias para
             evitar possíveis problemas de estouro ao lidar com números grandes, exercitando a resolução criativa de
             problemas.</li>
-    </ul>
-
+</ul>
     <h2>Funções de Manipulação de Arrays</h2>
-
     <ul>
-        <li><strong>Eficiência na Manipulação de Dados:</strong> As funções <code>simpleArraySum</code> e
+     <li><strong>Eficiência na Manipulação de Dados:</strong> As funções <code>simpleArraySum</code> e
             <code>integerArray</code> destacam métodos eficientes para manipular e processar arrays, essenciais para
             otimizar a eficiência do código.</li>
 
-        <li><strong>Entendimento de Métodos de Array:</strong> Ao utilizar métodos como <code>reduce</code>, você
+    <li><strong>Entendimento de Métodos de Array:</strong> Ao utilizar métodos como <code>reduce</code>, você
             aprimora seu entendimento de operações de array, contribuindo para um código mais conciso e legível.</li>
-
-        <li><strong>Habilidades Essenciais:</strong> Dominar esses desafios não apenas melhora suas habilidades em
+            <li><strong>Habilidades Essenciais:</strong> Dominar esses desafios não apenas melhora suas habilidades em
             JavaScript, mas também solidifica conceitos fundamentais para a programação eficaz.</li>
 
         <li><strong>Preparação para Desafios Mais Complexos:</strong> A resolução desses desafios serve como uma base
             sólida, preparando você para enfrentar problemas mais complexos e desafiadores em seu percurso como
             desenvolvedor.</li>
-    </ul>
-
+</ul>
     <p>Ao resolver esses desafios, você não apenas fortalece suas habilidades técnicas, mas também desenvolve uma
         mentalidade de resolução de problemas, essencial para o sucesso na área de desenvolvimento de software. Cada
         desafio superado representa um passo em direção ao aprimoramento contínuo de suas habilidades.</p>
-
 
 <h1>Função aVeryBigSum
 Visão Geral</h1>
