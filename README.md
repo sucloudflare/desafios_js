@@ -43,7 +43,7 @@ javascript
     return Number(sum);
 ```
 
-Ex:
+Exemplo:
 
 
 ```
